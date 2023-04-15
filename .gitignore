@@ -8,3 +8,4 @@ migrations
 .env.local
 dist
 temp
+.log
